@@ -1,2 +1,2 @@
-# Themes
+# themes
 Themes for bunnycord
