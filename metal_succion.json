@@ -1,9 +1,9 @@
 {
-    "name": "PurpleGalaxy",
-    "description": "A purple sky theme made by vodka",
+    "name": "Mahiro Oyama",
+    "description": "Onii-chan wa Oshimai!",
     "authors": [
       {
-        "name": "Vodka",
+        "name": "metalbross",
         "id": "1068030255455015013"
       }
     ],
@@ -338,7 +338,7 @@
     
     "background": {
         "alpha": 5,
-        "url": "https://github.com/VodkaXMartini/images/blob/main/purplegalaxy1-ezgif.com-gif-to-apng-converter.png?raw=true"
+        "url": "https://github.com/MetalBross/themes/blob/main/s-l1200.jpg?raw=true"
     },
     "plus":{
        "version":"0",
