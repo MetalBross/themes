@@ -25,7 +25,7 @@
         "#c8c8c8"
     ],
     "TEXT_MUTED": [
-        "#edd940",
+        "#ffea03",
         "#C8B68E"
     ],
     "INTERACTIVE_NORMAL": [
@@ -200,7 +200,7 @@
       "#eb6f92"
       ],
       "BG_BACKDROP": [
-        "#eaa2f5"
+        "#714278"
     ]
     },
     "rawColors": {
