@@ -245,10 +245,8 @@
     "BLUE_660": "#E06CA0",
     "BLUE_700": "#E06CA0"
   },
-  "background": {
-    "blur": 0.5,
-    "url": "https://github.com/MetalBross/themes/blob/main/s-l1200.jpg",
-    "alpha": 1.0
+   "background": {
+      "url": "https://github.com/MetalBross/themes/blob/main/s-l1200.jpg"
   },
-  "color": "#fdc0d2"
+    "color": "#4d4463"
 }
