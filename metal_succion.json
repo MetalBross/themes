@@ -339,6 +339,7 @@
     "background": {
         "alpha": 5,
         "url": "https://github.com/MetalBross/themes/blob/main/s-l1200.jpg?raw=true"
+        "blur": 3,
     },
     "plus":{
        "version":"0",
