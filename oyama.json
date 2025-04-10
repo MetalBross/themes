@@ -1,10 +1,10 @@
 {
-  "name": "Kuromii",
-  "description": "Kuromi Theme (For Femboys)",
+  "name": "Mahiro Oyama",
+  "description": "Onii-chan wa Oshimai!",
   "version": "1",
   "authors": [
     {
-      "name": "METALSTEALS XD",
+      "name": "metalbross",
       "id": "359111312418275349"
     }
   ],
@@ -247,7 +247,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/857863120970317867/1089391486484877432/1E250865-1F39-4C9D-A510-9AB32231FF65.jpg",
+    "url": "https://github.com/MetalBross/themes/blob/main/s-l1200.jpg",
     "alpha": 1.0
   },
   "color": "#fdc0d2"
