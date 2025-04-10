@@ -13,11 +13,11 @@
       ],
       "HEADER_PRIMARY": [
         
-        "#F4F4F4",
+        "#D59BC5",
         "#edd49b"
     ],
     "HEADER_SECONDARY": [
-        "#c8c8c8",
+        "#D382BD",
         "#d8c28f"
     ],
     "TEXT_NORMAL": [
@@ -45,12 +45,12 @@
         "#c9bbc8"
     ],
     "BACKGROUND_PRIMARY": [
-        "#3c419b",
-        "#161519"
+      "#474063",
+      "#474063"
     ],
     "BACKGROUND_SECONDARY": [
-        "#5B539D",
-        "#29272E"
+        "#474063",
+        "#474063"
     ],
     "BACKGROUND_SECONDARY_ALT": [
         "#3c419b",
