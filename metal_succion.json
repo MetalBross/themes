@@ -21,7 +21,7 @@
         "#d8c28f"
     ],
     "TEXT_NORMAL": [
-        "#F4F4F4",
+        "#FFFFFF",
         "#c8c8c8"
     ],
     "TEXT_MUTED": [
@@ -65,44 +65,48 @@
       "#121215"
   ],
     "BACKGROUND_ACCENT": [
-        "#5B539D",
-        "#504863"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_FLOATING": [
-        "#5B539D",
-        "#29272E"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-        "#3c419b",
-        "#222228"
+      "#423567",
+      "#423567"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-        "#3c419b",
-        "#655cb0"
+      "#423567",
+      "#423567"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-        "#514a8d",
-        "#4d4463"
+      "#423567",
+      "#423567"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-        "#514a8d",
-        "#1F1F2B"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-        "#514a8d",
-        "#1a1926"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-        "#514a8d",
-        "#1F1F2B"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-        "#5B539D",
-        "#373147"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-        "#5B539D",
-        "#29272E"
+      "#6F5B94",
+      "#6F5B94"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#F2BBDC",
+      "#F2BBDC"
     ],
     "SCROLLBAR_THIN_THUMB": [
         "#5B539D",
@@ -133,8 +137,8 @@
         "#7c6ea7"
     ],
     "TEXT_LINK": [
-        "#fbd1e6",
-        "#fbd1e6"
+      "#FAE89B",
+      "#181622"
     ],
     "KEYBOARD": [
         "#44429e",
