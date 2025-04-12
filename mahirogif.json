@@ -146,7 +146,7 @@
     ]
   },
   "rawColors": {
-    PRIMARY_100": "#B397DB",
+    "PRIMARY_100": "#B397DB",
     "PRIMARY_200": "#B397DB",
     "PRIMARY_300": "#B397DB",
     "PRIMARY_360": "#B397DB",
