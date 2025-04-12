@@ -4,7 +4,7 @@
     "authors": [
         {
             "name": "metalbross",
-            "id": "1068030255455015013"
+            "id": "1068030255455015016"
         }
     ],
   "spec": 2,
@@ -143,7 +143,7 @@
     ],
     "TEXT_SECONDARY": [
     "#D2B7AA"
-    ],
+    ]
   },
   "rawColors": {
     "PRIMARY_100": "#B397DB",
