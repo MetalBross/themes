@@ -3,7 +3,12 @@ Repository of a few themes for my bunnycord (pyoncord)
 
 To compile a theme, first open a notepad, and then insert the values of the correspondet fiels, you need to  have a Github acc to store the files of the themes
 
-# FILES ARE A JSON FORMAT, NOT CS LIKE VENCORD AND THIS AREN'T INSTALLABLE TO THE CLIENT 
+# FILES ARE A JSON FORMAT, NOT CSS LIKE VENCORD AND THIS AREN'T INSTALLABLE TO THE CLIENT 
+
+The image can be added by an URL from the net, you can get one from mostly google or pinterest
+To modify the colors and background just get in hex the color of the correspondent field you want to modify
+
+Sample of the file:
 
 ```{
     "name": "theme name",
@@ -270,3 +275,4 @@ To compile a theme, first open a notepad, and then insert the values of the corr
 ```
 
 Easy not?
+Talk with me on my Discord: @metalbross
