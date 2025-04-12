@@ -5,7 +5,7 @@ To compile a theme, first open a notepad, and then insert the values of the corr
 
 # FILES ARE A JSON FORMAT, NOT CS LIKE VENCORD AND THIS AREN'T INSTALLABLE TO THE CLIENT 
 
-``{
+```{
     "name": "theme name",
     "description": "description theme",
     "authors": [
@@ -267,6 +267,6 @@ To compile a theme, first open a notepad, and then insert the values of the corr
   },
     "color": "#4d4463"
 }
-``
+```
 
 Easy not?
