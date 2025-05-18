@@ -24,6 +24,9 @@
         "#edd940",
         "#c8c8c8"
     ],
+    "TEXT_PRIMARY": [
+        "#000000"
+    ],
     "TEXT_MUTED": [
         "#ffea03",
         "#C8B68E"
